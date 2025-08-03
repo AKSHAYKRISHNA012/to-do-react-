@@ -11,9 +11,6 @@ This is a simple interactive To-Do List application built with React.js and Vite
 - 🎨 Modern, responsive UI with gradient background
 - 📱 Mobile-friendly design
 
-## 🚀 Live Demo
-[View Live Demo](https://your-vercel-deployment-url.vercel.app)
-
 ## 🛠️ Getting Started
 1. Install dependencies:
    ```bash
